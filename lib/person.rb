@@ -2,5 +2,5 @@ class Person
 end
 
 class Person
- = Dog.new
-snoopy = Dog.new  
+adele_goldberg = Person.new
+ = Person.new  
